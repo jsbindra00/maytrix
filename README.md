@@ -14,4 +14,5 @@ tool to visualise the transformation of 3d vector / affine spaces in abstract li
 <li>Fix rotations about origin</li>
 <li>Add matrix stack for undo's and redo's</li>
 <li>Add suggested matrices drop down</li>
+<li>Immovable panes</li>
 </ul>
